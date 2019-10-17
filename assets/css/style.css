@@ -1,0 +1,113 @@
+.head-name{
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    padding: 15px;
+    height: 20px;
+    width: 220px;
+    margin: 5px; 
+}
+.nav {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    float: right;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.li-a {
+    float: right;
+    display: block;
+    padding:10px;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.body-content {
+    background-image: url("hotel-wallpaper.png");
+    width: 960px;
+    margin: 60px;
+    border-color: #dddddd;
+    align-content: center;
+}
+.footer {
+    position: sticky;
+    border-top: 8px solid #4aaaa5; 
+    text-align: center;
+    background-color: #666666;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 10pt;
+    padding: 8px;
+}
+.writing {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 10;
+    padding: 10px;
+    margin: 10px;
+}
+.quote {
+    text-align: center;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif
+}
+ .content-head {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    border-bottom: 2px #dddddd;
+    margin: 15px;
+    padding-left: 10px;
+ }
+.img{
+    float: left;
+    padding: 10px;
+}
+.container1 {
+    width: 800px;
+    height: 330px;
+    padding-bottom: 50px;
+    background-color: #ffffff;
+    border: #dddddd;
+    padding-top: 15px;
+    margin: 50px;
+    align-content: center;
+}
+.container2 {
+    width: 750px;
+    height: 350px;
+    margin: 50px;
+    background-color: #ffffff;
+    border: #ddd;
+}
+.container3 {
+    width: 750px;
+    height: 600px;
+    float: fixed;
+    background-color: #ffffff;
+    border: #ddd;
+}
+.Projects {
+    position: left;
+    padding: 20px;
+    margin: 10px;
+    width: 33%;
+}
+.Projects2 {
+    float: right;
+    margin: 0px auto;
+    padding-top: 50px;
+    width: 33%;
+
+}
+.project-img {
+    position: absolute; 
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 200px;
+    margin: 0px;
+    text-align: center;
+}
+.clearfix {
+    clear: both;
+}
